@@ -1,3 +1,6 @@
+# Add a comment to see if building is automatic
+# after adding the GitHook
+
 node{
     git credentialsId: 'rjgitcredentials', 
     url: 'https://github.com/RobertJovanov/docker-demo.git'
